@@ -16,9 +16,9 @@ The analysis uses the Allstate Claims Severity dataset.
 
 The files used by the notebook are:
 
-- `train.csv` — 188,318 rows and 132 columns
-- `test.csv` — 125,546 rows and 131 columns
-- `sample_submission.csv` — 125,546 rows and 2 columns
+- `train.csv` - 188,318 rows and 132 columns
+- `test.csv` - 125,546 rows and 131 columns
+- `sample_submission.csv` - 125,546 rows and 2 columns
 
 The training data contains 116 categorical features along with continuous features, an ID field, and the final claim loss. The feature names are anonymized, so the analysis cannot confirm the business meaning or exact timing of every predictor.
 
